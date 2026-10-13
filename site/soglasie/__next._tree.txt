@@ -1,8 +1,8 @@
 :HL["/timofeev-website/site/_next/static/chunks/0ci_pv3h3hx-x.css","style"]
-:HL["/timofeev-website/site/_next/static/chunks/2ui7xua-hpiys.css","style"]
+:HL["/timofeev-website/site/_next/static/chunks/0pjm8yyscecq9.css","style"]
 :HL["/timofeev-website/site/_next/static/chunks/3p2-xe66n0o9r.css","style"]
 :HL["/timofeev-website/site/fonts/ptserif-cyrillic.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
 :HL["/timofeev-website/site/fonts/golos-cyrillic.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"soglasie","h":64,"c":"$Q2"}]]
-0:{"b":"ybKQUXVQxc9gJM_s1hiE4","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"IiB2RnxhrKOUprzP96wE5","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
