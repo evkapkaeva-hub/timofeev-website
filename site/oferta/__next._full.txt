@@ -1,0 +1,114 @@
+1:"$Sreact.fragment"
+a:"/timofeev-website/site/_next/static/chunks/2h6bv7bryibsk.js"
+b:"/timofeev-website/site/_next/static/chunks/1v77dx6c4z0rv.js"
+c:I[63491,["$a","$b"],"default"]
+:HL["/timofeev-website/site/_next/static/chunks/28qerebq1t3r6.css","style"]
+:HL["/timofeev-website/site/_next/static/chunks/31266cchjatuu.css","style"]
+:HL["/timofeev-website/site/_next/static/chunks/3p2-xe66n0o9r.css","style"]
+:HL["/timofeev-website/site/fonts/ptserif-cyrillic.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
+:HL["/timofeev-website/site/fonts/golos-cyrillic.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
+2:Tf45,{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://psikhologtimofeev.ru/#website","url":"https://psikhologtimofeev.ru/","name":"Юрий Тимофеев — психолог и системный терапевт","inLanguage":"ru-RU","publisher":{"@id":"https://psikhologtimofeev.ru/#person"}},{"@type":"Person","@id":"https://psikhologtimofeev.ru/#person","name":"Юрий Тимофеев","givenName":"Юрий","familyName":"Тимофеев","jobTitle":"Психолог, системно-образный терапевт, КПТ-терапевт, гипнолог, педагог-психолог","url":"https://psikhologtimofeev.ru/","image":"https://psikhologtimofeev.ru/og-image.jpg","telephone":"+79877403344","knowsAbout":["Психологическое консультирование","Системно-образная терапия","Расстановки по Берту Хеллингеру","Гипнотерапия","Когнитивно-поведенческая терапия","Кризисная психология","Семейная системная терапия"],"sameAs":["https://t.me/yuri_t","https://t.me/rasstanovkiyuri","https://vk.com/yuri_t","https://www.b17.ru/timofeevyuriy/","https://max.ru/id210602626301_biz"]},{"@type":"ProfessionalService","@id":"https://psikhologtimofeev.ru/#service","name":"Психолог Юрий Тимофеев","description":"Психологическая консультация, гипнотерапия, расстановки по Хеллингеру и индивидуальное сопровождение. Онлайн и очно в Нижнем Новгороде.","url":"https://psikhologtimofeev.ru/","image":"https://psikhologtimofeev.ru/og-image.jpg","logo":"https://psikhologtimofeev.ru/icon-512.png","telephone":"+79877403344","priceRange":"3000–30000 ₽","currenciesAccepted":"RUB","areaServed":[{"@type":"City","name":"Нижний Новгород"},{"@type":"Country","name":"Россия"}],"address":{"@type":"PostalAddress","addressLocality":"Нижний Новгород","streetAddress":"пл. Горького","addressRegion":"Нижегородская область","addressCountry":"RU"},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"08:00","closes":"20:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":["Saturday","Sunday"],"opens":"10:00","closes":"18:00"}],"founder":{"@id":"https://psikhologtimofeev.ru/#person"},"employee":{"@id":"https://psikhologtimofeev.ru/#person"},"sameAs":["https://t.me/rasstanovkiyuri","https://vk.com/yuri_t","https://www.b17.ru/timofeevyuriy/"],"hasOfferCatalog":{"@type":"OfferCatalog","name":"Услуги психолога","itemListElement":[{"@type":"Offer","price":"3000","priceCurrency":"RUB","url":"https://psikhologtimofeev.ru/uslugi/","itemOffered":{"@type":"Service","name":"Психологическая консультация","description":"Онлайн или очно, 1 час"}},{"@type":"Offer","price":"4000","priceCurrency":"RUB","url":"https://psikhologtimofeev.ru/uslugi/","itemOffered":{"@type":"Service","name":"Гипнотерапия","description":"Онлайн или очно, 1 час"}},{"@type":"Offer","price":"10000","priceCurrency":"RUB","url":"https://psikhologtimofeev.ru/uslugi/","itemOffered":{"@type":"Service","name":"Расстановки по Берту Хеллингеру","description":"Индивидуальные и групповые, онлайн или очно"}},{"@type":"Offer","price":"30000","priceCurrency":"RUB","url":"https://psikhologtimofeev.ru/uslugi/","itemOffered":{"@type":"Service","name":"Индивидуальное сопровождение","description":"Глубокая работа до результата, цена за месяц"}}]}}]}6:X
+7:[["children",{"s":"__PAGE__","h":512,"d":{"r":"$L8","p":false,"v":null}}]]
+4:[["children",{"s":"oferta","h":512,"d":{"r":"$L5","p":false,"v":"$6"},"c":"$Q7"}]]
+0:{"P":null,"c":["","oferta",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/timofeev-website/site/_next/static/chunks/28qerebq1t3r6.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/timofeev-website/site/_next/static/chunks/31266cchjatuu.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/timofeev-website/site/_next/static/chunks/2h6bv7bryibsk.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","href":"/timofeev-website/site/fonts/ptserif-cyrillic.woff2","as":"font","type":"font/woff2","crossOrigin":"anonymous"}],["$","link",null,{"rel":"preload","href":"/timofeev-website/site/fonts/golos-cyrillic.woff2","as":"font","type":"font/woff2","crossOrigin":"anonymous"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}]]}],"$L3"]}]]}],"p":false,"v":null},"c":"$Q4"},"h":{"r":"$L9","p":false,"v":null}},"m":"$undefined","G":["$c",["$Ld","$Le"]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"s449rkCWzTMiVqGg8gMvv"}
+10:"ContactPickerProvider"
+11:I[77746,["$a"],"$10"]
+12:I[2971,["$a"],"default"]
+13:I[39756,["$a"],"default"]
+14:"/timofeev-website/site/_next/static/chunks/0co3bzaqoz3cc.js"
+15:I[58298,["$a","$14"],"default"]
+16:I[37457,["$a"],"default"]
+17:I[22016,["$a"],""]
+18:I[77746,["$a"],"BookButton"]
+19:I[56194,["$a"],"default"]
+1e:"ViewportBoundary"
+1f:I[97367,["$a"],"$1e"]
+21:"MetadataBoundary"
+22:I[97367,["$a"],"$21"]
+23:"$Sreact.suspense"
+f:["$","style",null,{"children":"#pl{display:none!important}"}]
+1a:T70e,(function(){
+  var pl = document.getElementById('pl');
+  if (!pl) return;
+  var MAX_WAIT = 2500, QUICK = 600, t0 = performance.now(), pf = 0, pp = 0, done = false;
+  var fill = document.getElementById('pl-fill'), pct = document.getElementById('pl-pct');
+  function set(){
+    var p = 0.15 + 0.85 * (pf * 0.4 + pp * 0.6);
+    if (fill) fill.style.transform = 'scaleX(' + p + ')';
+    if (pct) pct.textContent = Math.round(p * 100) + '%';
+  }
+  var repeat = false;
+  try { repeat = sessionStorage.getItem('tim-preloaded') === '1'; } catch (e) {}
+  function hide(){
+    if (done) return; done = true; pf = 1; pp = 1; set();
+    var total = performance.now() - t0;
+    setTimeout(function(){
+      if (repeat || total < QUICK) pl.classList.add('-PvIBG_quick');
+      pl.classList.add('-PvIBG_out');
+      setTimeout(function(){ pl.style.display = 'none'; }, 1100);
+      try { sessionStorage.setItem('tim-preloaded', '1'); } catch (e) {}
+    }, 150);
+  }
+  set();
+  setTimeout(hide, MAX_WAIT);
+  var faces = ['400 1em "PT Serif"', 'italic 400 1em "PT Serif"', '400 1em "Golos Text"', '500 1em "Golos Text"'], n = 0;
+  var fonts = Promise.all(faces.map(function(f){
+    return (document.fonts ? document.fonts.load(f, 'ЮТ Юрий').catch(function(){}) : Promise.resolve())
+      .then(function(){ n++; pf = n / faces.length; set(); });
+  }));
+  var photo = new Promise(function(resolve){
+    var img = document.querySelector('[data-hero-img]');
+    function ok(){ pp = 1; set(); resolve(); }
+    if (!img) return ok();
+    if (img.complete && img.naturalWidth) return (img.decode ? img.decode().catch(function(){}) : Promise.resolve()).then(ok);
+    img.addEventListener('load', ok, { once: true });
+    img.addEventListener('error', ok, { once: true });
+  });
+  Promise.all([fonts, photo]).then(hide);
+})();3:["$","body",null,{"children":[[["$","div",null,{"id":"pl","className":"-PvIBG_pl","role":"status","aria-label":"Загрузка сайта","suppressHydrationWarning":true,"children":["$","div",null,{"className":"-PvIBG_inner","children":[["$","div",null,{"className":"-PvIBG_mark","aria-hidden":"true","children":"ЮТ"}],["$","div",null,{"className":"-PvIBG_bar","children":["$","div",null,{"id":"pl-fill","className":"-PvIBG_fill","suppressHydrationWarning":true}]}],["$","div",null,{"id":"pl-pct","className":"-PvIBG_pct","suppressHydrationWarning":true,"children":"15%"}]]}]}],["$","noscript",null,{"children":"$f"}]],["$","a",null,{"href":"#main","className":"skip-link","children":"Перейти к содержанию"}],["$","$L11",null,{"children":[["$","$L12",null,{}],["$","main",null,{"id":"main","children":["$","$L13",null,{"parallelRouterKey":"children","error":"$15","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/timofeev-website/site/_next/static/chunks/0co3bzaqoz3cc.js","async":true,"nonce":"$undefined"}]],"template":["$","$L16",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"_glbSW_block","children":["$","div",null,{"className":"container","children":["$","div",null,{"className":"_glbSW_inner","children":[["$","p",null,{"className":"eyebrow _glbSW_label","children":"Страница не найдена"}],["$","h1",null,{"className":"_glbSW_title","children":["Ошибка 404 — это только ",["$","span",null,{"className":"gold","children":"симптом"}]]}],["$","p",null,{"className":"_glbSW_text","children":"Настоящая причина, скорее всего, в ссылке: она устарела или в адресе опечатка. С этим разобраться проще, чем с жизненными сценариями."}],["$","div",null,{"className":"_glbSW_buttons","children":[["$","$L17",null,{"href":"/","className":"btn btn-gold","children":"На главную"}],["$","$L18",null,{"className":"btn btn-outline","children":[["$","span",null,{"className":"_glbSW_long","children":"Обсудить мою ситуацию"}],["$","span",null,{"className":"_glbSW_short","children":"Написать мне"}]]}]]}],["$","p",null,{"className":"_glbSW_note","children":["Если искали что-то конкретное — напишите, подскажу:"," ",["$","a",null,{"href":"https://t.me/yuri_t","target":"_blank","rel":"noopener noreferrer","children":"Telegram"}]," ","или"," ",["$","a",null,{"href":"https://max.ru/u/f9LHodD0cOJBbhPmASJElS9X5ZqmXVZlOH0E-xH3Zqgs3yUSgfAlxof1qkc","target":"_blank","rel":"noopener noreferrer","children":"MAX"}],"."]}]]}]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"S6Hkya_footer","children":[["$","div",null,{"className":"S6Hkya_grid","children":[["$","div",null,{"className":"S6Hkya_brand","children":[["$","p",null,{"className":"S6Hkya_name","children":"Юрий Тимофеев"}],["$","p",null,{"className":"S6Hkya_desc","children":"Психолог, системно-образный терапевт, КПТ-терапевт, гипнолог, педагог-психолог"}]]}],["$","nav",null,{"className":"S6Hkya_col S6Hkya_nav1","aria-label":"Разделы сайта","children":[["$","$L17",null,{"href":"/","children":"Главная"}],["$","$L17",null,{"href":"/uslugi/","children":"Услуги"}],["$","$L17",null,{"href":"/opyt/","children":"Мой опыт"}]]}],["$","nav",null,{"className":"S6Hkya_col S6Hkya_nav2","aria-label":"Разделы сайта, продолжение","children":[["$","$L17",null,{"href":"/blog/","children":"Блог"}],["$","$L17",null,{"href":"/otzyvy/","children":"Отзывы"}],["$","$L17",null,{"href":"/kontakty/","children":"Контакты"}]]}],["$","div",null,{"className":"S6Hkya_col S6Hkya_contacts","children":[["$","a",null,{"href":"tel:+79877403344","className":"S6Hkya_phone","children":"+7 987 740 33 44"}],["$","$L17",null,{"href":"/oferta/","className":"S6Hkya_legal S6Hkya_oferta","children":"Оферта"}],["$","$L17",null,{"href":"/politika/","className":"S6Hkya_legal","children":"Политика конфиденциальности"}]]}]]}],["$","div",null,{"className":"S6Hkya_bottom","children":["$","div",null,{"className":"S6Hkya_bottomInner","children":[["$","p",null,{"children":["© ",2026," ИП Тимофеев Юрий Вячеславович · psikhologtimofeev.ru"]}],["$","a",null,{"href":"https://kattidesign.ru/","target":"_blank","rel":"noopener","className":"S6Hkya_designer","children":"Дизайн сайта"}]]}]}]]}],["$","$L19",null,{}]]}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$1a"}}]]}]
+5:["$","$1","c",{"children":[null,["$","$L13",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L16",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+1b:T1f9a,<p class="legal-date">Редакция от&nbsp;12&nbsp;октября 2026&nbsp;г.</p>
+<p>Индивидуальный предприниматель Тимофеев Юрий Вячеславович (далее — Исполнитель) предлагает любому дееспособному лицу старше 18 лет (далее — Заказчик) заключить договор на&nbsp;условиях ниже. Это публичная оферта по&nbsp;ст. 437 ГК&nbsp;РФ.</p>
+<h2>1. Предмет договора</h2>
+<p>1.1. Исполнитель оказывает консультационные психологические услуги (далее — Услуги), а&nbsp;Заказчик оплачивает их. Перечень и&nbsp;цены — в&nbsp;разделе 3 и&nbsp;на&nbsp;странице <a href="/uslugi/">psikhologtimofeev.ru/uslugi/</a>.</p>
+<p>1.2. Услуги не&nbsp;являются медицинскими и&nbsp;не&nbsp;заменяют лечение. Исполнитель не&nbsp;ставит диагнозы и&nbsp;не&nbsp;назначает лекарства. Если состояние Заказчика требует медицинской помощи, Исполнитель рекомендует обратиться к&nbsp;врачу.</p>
+<p>1.3. Услуги оказываются онлайн по&nbsp;видеосвязи или очно в&nbsp;Нижнем Новгороде по&nbsp;договорённости.</p>
+<p>1.4. Результат зависит от&nbsp;индивидуальных особенностей и&nbsp;участия Заказчика, поэтому Исполнитель не&nbsp;гарантирует конкретный результат.</p>
+<h2>2. Акцепт оферты</h2>
+<p>Договор считается заключённым с&nbsp;момента оплаты Услуги (полной или частичной). Оплачивая, Заказчик подтверждает, что прочитал и&nbsp;принимает условия оферты.</p>
+<h2>3. Услуги и&nbsp;цены</h2>
+<div class="legal-scroll"><table><thead><tr><th>Услуга</th><th>Длительность</th><th>Цена</th></tr></thead><tbody><tr><td>Созвон-знакомство (только для новых клиентов, по телефону или видеосвязи)</td><td>15 минут</td><td>Бесплатно</td></tr><tr><td>Психологическая консультация</td><td>1 час</td><td>3 000 ₽</td></tr><tr><td>Гипнотерапия</td><td>1 час</td><td>4 000 ₽</td></tr><tr><td>Расстановка (индивидуальная или групповая)</td><td>[уточнить]</td><td>10 000 ₽</td></tr><tr><td>Индивидуальное сопровождение</td><td>1 месяц</td><td>30 000 ₽</td></tr><tr><td>Закрытая программа</td><td>2 месяца</td><td>[уточнить]</td></tr></tbody></table></div>
+<p>Исполнитель может менять цены. Для уже оплаченных Услуг цена не&nbsp;меняется.</p>
+<h2>4. Запись и&nbsp;оплата</h2>
+<p>4.1. Дата и&nbsp;время сессии согласуются по&nbsp;телефону или в&nbsp;мессенджере.</p>
+<p>4.2. Оплата — [100% предоплата не&nbsp;позднее чем за&nbsp;24 часа до&nbsp;сессии] переводом по&nbsp;реквизитам Исполнителя [или другим способом — уточнить]. После оплаты Исполнитель выдаёт кассовый чек.</p>
+<h2>5. Перенос, отмена и&nbsp;возврат</h2>
+<p>5.1. Заказчик может перенести или отменить сессию, предупредив Исполнителя не&nbsp;позднее чем за&nbsp;[24 часа]. В&nbsp;этом случае сессия переносится или деньги возвращаются полностью.</p>
+<p>5.2. При отмене позднее чем за&nbsp;[24 часа] или неявке Исполнитель удерживает фактически понесённые расходы — [уточнить с&nbsp;юристом: по&nbsp;ст. 32 Закона «О&nbsp;защите прав потребителей» удержать можно только реальные расходы, а&nbsp;не&nbsp;всю сумму].</p>
+<p>5.3. Если сессию отменяет Исполнитель, Заказчик выбирает перенос или полный возврат.</p>
+<p>5.4. Возврат — в&nbsp;течение 10 дней после заявления на&nbsp;<a href="mailto:tim.570@mail.ru">tim.570@mail.ru</a> тем же&nbsp;способом, которым была произведена оплата.</p>
+<h2>6. Права и&nbsp;обязанности</h2>
+<p>6.1. Исполнитель обязан оказать Услугу в&nbsp;согласованное время и&nbsp;сохранять конфиденциальность всего, что Заказчик сообщает, кроме случаев, предусмотренных законом, и&nbsp;ситуаций угрозы жизни.</p>
+<p>6.2. Исполнитель вправе отказать в&nbsp;Услуге с&nbsp;возвратом оплаты, если Заказчик находится в&nbsp;состоянии алкогольного или наркотического опьянения или если его состояние требует медицинской помощи.</p>
+<p>6.3. Заказчик обязан сообщить Исполнителю о&nbsp;психических и&nbsp;других заболеваниях, которые могут быть противопоказанием к&nbsp;гипнотерапии или другим методам [список противопоказаний — уточнить у&nbsp;Юрия], и&nbsp;обеспечить для онлайн-сессии связь и&nbsp;спокойное место.</p>
+<p>6.4. Записывать сессии на&nbsp;аудио или видео стороны могут только по&nbsp;взаимному согласию.</p>
+<h2>7. Ответственность и&nbsp;споры</h2>
+<p>7.1. Заказчик сам принимает решения по&nbsp;итогам консультаций и&nbsp;отвечает за&nbsp;них.</p>
+<p>7.2. Исполнитель не&nbsp;отвечает за&nbsp;перебои связи на&nbsp;стороне Заказчика. Если сессия прервалась по&nbsp;вине Исполнителя, время добавляется или переносится.</p>
+<p>7.3. Споры решаются переговорами, претензия рассматривается 10 дней. Если договориться не&nbsp;удалось — в&nbsp;суде по&nbsp;законодательству РФ.</p>
+<h2>8. Конфиденциальность и&nbsp;данные</h2>
+<p>Исполнитель обрабатывает персональные данные Заказчика по&nbsp;Политике обработки персональных данных (<a href="/politika/">psikhologtimofeev.ru/politika/</a>).</p>
+<h2>9. Реквизиты Исполнителя</h2>
+<p>ИП Тимофеев Юрий Вячеславович<br>ИНН 210602626301, ОГРНИП 325527500023246<br>Адрес: 607600, Нижегородская обл., Богородский р-н, д. Шумилово, ул. Радужная, д. 132<br>р/с 40802810200007921639, БИК 044525974, к/с 30101810145250000974<br>Телефон: +7 987 740 33 44, e-mail: <a href="mailto:tim.570@mail.ru">tim.570@mail.ru</a></p>
+8:["$","$1","c",{"children":[["$","div",null,{"className":"section section-first bg-base","children":["$","div",null,{"className":"container grid12 icB8aa_grid","children":[["$","div",null,{"className":"icB8aa_head","children":[["$","h1",null,{"className":"icB8aa_h1","children":"Оферта"}],["$","p",null,{"className":"icB8aa_intro","children":"Договор на оказание психологических услуг. Оплачивая услугу, вы принимаете эти условия."}]]}],["$","div",null,{"className":"icB8aa_body","children":[["$","dl",null,{"className":"icB8aa_req","children":[["$","div","Исполнитель",{"className":"icB8aa_row","children":[["$","dt",null,{"children":"Исполнитель"}],["$","dd",null,{"className":"icB8aa_long","children":"Индивидуальный предприниматель Тимофеев Юрий Вячеславович"}]]}],["$","div","ИНН",{"className":"icB8aa_row","children":[["$","dt",null,{"children":"ИНН"}],["$","dd",null,{"className":"$undefined","children":"210602626301"}]]}],["$","div","ОГРНИП",{"className":"icB8aa_row","children":[["$","dt",null,{"children":"ОГРНИП"}],["$","dd",null,{"className":"$undefined","children":"325527500023246"}]]}],["$","div","Телефон",{"className":"icB8aa_row","children":[["$","dt",null,{"children":"Телефон"}],["$","dd",null,{"className":"$undefined","children":["$","a",null,{"href":"tel:+79877403344","children":"+7 987 740 33 44"}]}]]}],["$","div","Юридический адрес",{"className":"icB8aa_row","children":[["$","dt",null,{"children":"Юридический адрес"}],["$","dd",null,{"className":"icB8aa_long","children":"607600, Россия, Нижегородская обл., Богородский р-н, д. Шумилово, ул. Радужная, д. 132"}]]}],["$","div","Банковские реквизиты",{"className":"icB8aa_row","children":[["$","dt",null,{"children":"Банковские реквизиты"}],["$","dd",null,{"className":"icB8aa_long","children":"р/с 40802810200007921639, БИК 044525974, к/с 30101810145250000974, 127287, г. Москва, ул. Хуторская 2-я, д. 38А, стр. 26"}]]}]]}],["$","div",null,{"className":"icB8aa_doc","dangerouslySetInnerHTML":{"__html":"$1b"}}]]}]]}]}],["$L1c"],"$L1d"]}]
+9:["$","$1","h",{"children":[null,["$","$L1f",null,{"children":"$L20"}],["$","$L22",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$23",null,{"name":"Next.Metadata","children":"$L24"}]}],null]}],null]}]
+d:["$","link","0",{"rel":"stylesheet","href":"/timofeev-website/site/_next/static/chunks/28qerebq1t3r6.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+e:["$","link","1",{"rel":"stylesheet","href":"/timofeev-website/site/_next/static/chunks/31266cchjatuu.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+25:I[97367,["$a"],"OutletBoundary"]
+6:C
+1c:["$","link","0",{"rel":"stylesheet","href":"/timofeev-website/site/_next/static/chunks/3p2-xe66n0o9r.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+1d:["$","$L25",null,{"children":["$","$23",null,{"name":"Next.MetadataOutlet","children":"$@26"}]}]
+20:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#122e47"}]]
+27:I[27201,["$a"],"IconMark"]
+24:[["$","title","0",{"children":"Оферта — Юрий Тимофеев, психолог"}],["$","meta","1",{"name":"description","content":"Договор-оферта на оказание психологических услуг ИП Тимофеев Юрий Вячеславович."}],["$","meta","2",{"name":"author","content":"Юрий Тимофеев"}],["$","link","3",{"rel":"manifest","href":"/timofeev-website/site/manifest.webmanifest","crossOrigin":"$undefined"}],["$","meta","4",{"name":"robots","content":"index, follow, max-image-preview:large"}],["$","link","5",{"rel":"canonical","href":"https://psikhologtimofeev.ru/oferta/"}],["$","meta","6",{"property":"og:title","content":"Оферта — Юрий Тимофеев, психолог"}],["$","meta","7",{"property":"og:description","content":"Договор-оферта на оказание психологических услуг ИП Тимофеев Юрий Вячеславович."}],["$","meta","8",{"property":"og:url","content":"https://psikhologtimofeev.ru/oferta/"}],["$","meta","9",{"property":"og:site_name","content":"Юрий Тимофеев — психолог"}],["$","meta","10",{"property":"og:locale","content":"ru_RU"}],["$","meta","11",{"property":"og:image","content":"https://psikhologtimofeev.ru/og-image.jpg"}],["$","meta","12",{"property":"og:image:width","content":"1200"}],["$","meta","13",{"property":"og:image:height","content":"630"}],["$","meta","14",{"property":"og:image:alt","content":"Юрий Тимофеев — психолог и системный терапевт"}],["$","meta","15",{"property":"og:type","content":"website"}],["$","meta","16",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","17",{"name":"twitter:title","content":"Оферта — Юрий Тимофеев, психолог"}],["$","meta","18",{"name":"twitter:description","content":"Договор-оферта на оказание психологических услуг ИП Тимофеев Юрий Вячеславович."}],["$","meta","19",{"name":"twitter:image","content":"https://psikhologtimofeev.ru/og-image.jpg"}],["$","link","20",{"rel":"icon","href":"/timofeev-website/site/favicon.ico","sizes":"any"}],["$","link","21",{"rel":"icon","href":"/timofeev-website/site/favicon-32x32.png","type":"image/png","sizes":"32x32"}],["$","link","22",{"rel":"icon","href":"/timofeev-website/site/favicon-16x16.png","type":"image/png","sizes":"16x16"}],["$","link","23",{"rel":"apple-touch-icon","href":"/timofeev-website/site/apple-touch-icon.png","sizes":"180x180"}],["$","$L27","24",{}]]
+26:null
