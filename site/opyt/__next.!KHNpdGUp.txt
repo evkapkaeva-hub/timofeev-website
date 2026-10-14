@@ -1,0 +1,114 @@
+2:"$Sreact.fragment"
+4:"/timofeev-website/site/_next/static/chunks/0umf92h1sb77c.js"
+5:"/timofeev-website/site/_next/static/chunks/0ocmc04njn5gc.js"
+6:"/timofeev-website/site/_next/static/chunks/3fk011l37_p8p.js"
+7:"ContactPickerProvider"
+8:I[77746,["$4","$5","$6"],"$7"]
+9:I[2971,["$4","$5"],"default"]
+a:I[39756,["$4"],"default"]
+b:"/timofeev-website/site/_next/static/chunks/00nu5oxu2kxwo.js"
+c:I[86979,["$4","$5","$b"],"default"]
+d:I[37457,["$4"],"default"]
+f:I[22016,["$4","$5","$6"],""]
+10:I[77746,["$4","$5","$6"],"BookButton"]
+:HL["/timofeev-website/site/_next/static/chunks/18wrj_zo4xad4.css","style"]
+3:["$","style",null,{"children":"#pl{display:none!important}"}]
+e:["$","style",null,{"children":"#pl{display:none!important}"}]
+19:X
+1:[["children",{"s":"(site)","d":{"r":["$","$2","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/timofeev-website/site/_next/static/chunks/18wrj_zo4xad4.css","precedence":"next"}],["$","script","script-0",{"src":"/timofeev-website/site/_next/static/chunks/0ocmc04njn5gc.js","async":true}]],[[["$","div",null,{"id":"pl","className":"-PvIBG_pl","role":"status","aria-label":"Загрузка сайта","suppressHydrationWarning":true,"children":["$","div",null,{"className":"-PvIBG_inner","children":[["$","div",null,{"id":"pl-name","className":"-PvIBG_name","aria-hidden":"true","suppressHydrationWarning":true,"children":"Юрий Тимофеев"}],["$","div",null,{"className":"-PvIBG_bar","children":["$","div",null,{"id":"pl-fill","className":"-PvIBG_fill","suppressHydrationWarning":true}]}]]}]}],["$","noscript",null,{"children":"$3"}]],["$","a",null,{"href":"#main","className":"skip-link","children":"Перейти к содержанию"}],["$","$L8",null,{"children":[["$","$L9",null,{}],["$","main",null,{"id":"main","children":["$","$La",null,{"parallelRouterKey":"children","error":"$c","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/timofeev-website/site/_next/static/chunks/00nu5oxu2kxwo.js","async":true}]],"template":["$","$Ld",null,{}],"notFound":[[[["$","div",null,{"id":"pl","className":"-PvIBG_pl","role":"status","aria-label":"Загрузка сайта","suppressHydrationWarning":true,"children":["$","div",null,{"className":"-PvIBG_inner","children":[["$","div",null,{"id":"pl-name","className":"-PvIBG_name","aria-hidden":"true","suppressHydrationWarning":true,"children":"Юрий Тимофеев"}],["$","div",null,{"className":"-PvIBG_bar","children":["$","div",null,{"id":"pl-fill","className":"-PvIBG_fill","suppressHydrationWarning":true}]}]]}]}],["$","noscript",null,{"children":"$e"}]],["$","a",null,{"href":"#main","className":"skip-link","children":"Перейти к содержанию"}],["$","$L8",null,{"children":[["$","$L9",null,{}],["$","main",null,{"id":"main","children":["$","div",null,{"className":"_glbSW_block","children":["$","div",null,{"className":"container","children":["$","div",null,{"className":"_glbSW_inner","children":[["$","p",null,{"className":"eyebrow _glbSW_label","children":"Страница не найдена"}],["$","h1",null,{"className":"_glbSW_title","children":["Ошибка 404 — это только ",["$","span",null,{"className":"gold","children":"симптом"}]]}],["$","p",null,{"className":"_glbSW_text","children":"Настоящая причина, скорее всего, в ссылке: она устарела или в адресе опечатка. С этим разобраться проще, чем с жизненными сценариями."}],["$","div",null,{"className":"_glbSW_buttons","children":[["$","$Lf",null,{"href":"/","className":"btn btn-gold","children":"На главную"}],["$","$L10",null,{"className":"btn btn-outline","children":[["$","span",null,{"className":"_glbSW_long","children":"Обсудить мою ситуацию"}],["$","span",null,{"className":"_glbSW_short","children":"Написать мне"}]]}]]}],["$","p",null,{"className":"_glbSW_note","children":["Если искали что-то конкретное — напишите, подскажу:"," ",["$","a",null,{"href":"https://t.me/yuri_t","target":"_blank","rel":"noopener noreferrer","children":"Telegram"}]," ","или"," ",["$","a",null,{"href":"https://max.ru/u/f9LHodD0cOJBbhPmASJElS9X5ZqmXVZlOH0E-xH3Zqgs3yUSgfAlxof1qkc","target":"_blank","rel":"noopener noreferrer","children":"MAX"}],"."]}]]}]}]}]}],["$","footer",null,{"className":"S6Hkya_footer","children":[["$","div",null,{"className":"S6Hkya_grid","children":[["$","div",null,{"className":"S6Hkya_brand","children":[["$","p",null,{"className":"S6Hkya_name","children":"Юрий Тимофеев"}],["$","p",null,{"className":"S6Hkya_desc","children":"Психолог, системно-образный терапевт, КПТ-терапевт, гипнолог, педагог-психолог"}]]}],["$","nav",null,{"className":"S6Hkya_col S6Hkya_nav1","aria-label":"Разделы сайта","children":[["$","$Lf",null,{"href":"/","children":"Главная"}],["$","$Lf",null,{"href":"/uslugi/","children":"Услуги"}],["$","$Lf",null,{"href":"/opyt/","children":"Мой опыт"}]]}],["$","nav",null,{"className":"S6Hkya_col S6Hkya_nav2","aria-label":"Разделы сайта, продолжение","children":[["$","$Lf",null,{"href":"/blog/","children":"Блог"}],["$","$Lf",null,{"href":"/otzyvy/","children":"Отзывы"}],["$","$Lf",null,{"href":"/kontakty/","children":"Контакты"}]]}],["$","div",null,{"className":"S6Hkya_col S6Hkya_contacts","children":[["$","a",null,{"href":"tel:+79877403344","className":"S6Hkya_phone","children":"+7 987 740 33 44"}],["$","$Lf",null,{"href":"/oferta/","className":"S6Hkya_legal S6Hkya_oferta","children":"Оферта"}],["$","$Lf",null,{"href":"/politika/","className":"S6Hkya_legal","children":"Политика конфиденциальности"}]]}]]}],["$","div",null,{"className":"S6Hkya_bottom","children":["$","div",null,{"className":"S6Hkya_bottomInner","children":["$L11","$L12"]}]}]]}],"$L13"]}],"$L14"],[]]}]}],"$L15","$L16"]}],"$L17"]]}],"p":"$@18","v":null,"s":"$19"}}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"}},"a":"$@1a","u":"$@1b","b":"LykE_ZDTsy-LRAtlPi17v"}
+1c:I[56194,["$4","$5"],"default"]
+11:["$","p",null,{"children":["© ",2026," ИП Тимофеев Юрий Вячеславович · psikhologtimofeev.ru"]}]
+12:["$","a",null,{"href":"https://kattidesign.ru/","target":"_blank","rel":"noopener","className":"S6Hkya_designer","children":"Дизайн сайта"}]
+13:["$","$L1c",null,{}]
+1d:T831,(function(){
+  var pl = document.getElementById('pl');
+  if (!pl) return;
+  var MAX_WAIT = 2500, QUICK = 600, t0 = performance.now(), pf = 0, pp = 0, done = false;
+  var fill = document.getElementById('pl-fill'), name = document.getElementById('pl-name');
+  function set(){
+    var p = 0.15 + 0.85 * (pf * 0.4 + pp * 0.6);
+    if (fill) fill.style.transform = 'scaleX(' + p + ')';
+  }
+  // The name appears once its italic font is ready (or after 0.6 s), so it never jumps between fonts.
+  function showName(){ if (name) name.classList.add('-PvIBG_nameOn'); }
+  setTimeout(showName, 600);
+  if (document.fonts) document.fonts.load('italic 400 1em "PT Serif"', 'Юрий Тимофеев').then(showName, showName); else showName();
+  var repeat = false;
+  try { repeat = sessionStorage.getItem('tim-preloaded') === '1'; } catch (e) {}
+  function hide(){
+    if (done) return; done = true; pf = 1; pp = 1; set();
+    var total = performance.now() - t0;
+    setTimeout(function(){
+      if (repeat || total < QUICK) pl.classList.add('-PvIBG_quick');
+      pl.classList.add('-PvIBG_out');
+      setTimeout(function(){ pl.style.display = 'none'; }, 1100);
+      try { sessionStorage.setItem('tim-preloaded', '1'); } catch (e) {}
+    }, 150);
+  }
+  set();
+  setTimeout(hide, MAX_WAIT);
+  var faces = ['400 1em "PT Serif"', 'italic 400 1em "PT Serif"', '400 1em "Golos Text"', '500 1em "Golos Text"'], n = 0;
+  var fonts = Promise.all(faces.map(function(f){
+    return (document.fonts ? document.fonts.load(f, 'ЮТ Юрий').catch(function(){}) : Promise.resolve())
+      .then(function(){ n++; pf = n / faces.length; set(); });
+  }));
+  var photo = new Promise(function(resolve){
+    var img = document.querySelector('[data-hero-img]');
+    function ok(){ pp = 1; set(); resolve(); }
+    if (!img) return ok();
+    if (img.complete && img.naturalWidth) return (img.decode ? img.decode().catch(function(){}) : Promise.resolve()).then(ok);
+    img.addEventListener('load', ok, { once: true });
+    img.addEventListener('error', ok, { once: true });
+  });
+  Promise.all([fonts, photo]).then(hide);
+})();14:["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$1d"}}]
+15:["$","footer",null,{"className":"S6Hkya_footer","children":[["$","div",null,{"className":"S6Hkya_grid","children":[["$","div",null,{"className":"S6Hkya_brand","children":[["$","p",null,{"className":"S6Hkya_name","children":"Юрий Тимофеев"}],["$","p",null,{"className":"S6Hkya_desc","children":"Психолог, системно-образный терапевт, КПТ-терапевт, гипнолог, педагог-психолог"}]]}],["$","nav",null,{"className":"S6Hkya_col S6Hkya_nav1","aria-label":"Разделы сайта","children":[["$","$Lf",null,{"href":"/","children":"Главная"}],["$","$Lf",null,{"href":"/uslugi/","children":"Услуги"}],["$","$Lf",null,{"href":"/opyt/","children":"Мой опыт"}]]}],["$","nav",null,{"className":"S6Hkya_col S6Hkya_nav2","aria-label":"Разделы сайта, продолжение","children":[["$","$Lf",null,{"href":"/blog/","children":"Блог"}],["$","$Lf",null,{"href":"/otzyvy/","children":"Отзывы"}],["$","$Lf",null,{"href":"/kontakty/","children":"Контакты"}]]}],["$","div",null,{"className":"S6Hkya_col S6Hkya_contacts","children":[["$","a",null,{"href":"tel:+79877403344","className":"S6Hkya_phone","children":"+7 987 740 33 44"}],["$","$Lf",null,{"href":"/oferta/","className":"S6Hkya_legal S6Hkya_oferta","children":"Оферта"}],["$","$Lf",null,{"href":"/politika/","className":"S6Hkya_legal","children":"Политика конфиденциальности"}]]}]]}],["$","div",null,{"className":"S6Hkya_bottom","children":["$","div",null,{"className":"S6Hkya_bottomInner","children":[["$","p",null,{"children":["© ",2026," ИП Тимофеев Юрий Вячеславович · psikhologtimofeev.ru"]}],["$","a",null,{"href":"https://kattidesign.ru/","target":"_blank","rel":"noopener","className":"S6Hkya_designer","children":"Дизайн сайта"}]]}]}]]}]
+16:["$","$L1c",null,{}]
+1e:T831,(function(){
+  var pl = document.getElementById('pl');
+  if (!pl) return;
+  var MAX_WAIT = 2500, QUICK = 600, t0 = performance.now(), pf = 0, pp = 0, done = false;
+  var fill = document.getElementById('pl-fill'), name = document.getElementById('pl-name');
+  function set(){
+    var p = 0.15 + 0.85 * (pf * 0.4 + pp * 0.6);
+    if (fill) fill.style.transform = 'scaleX(' + p + ')';
+  }
+  // The name appears once its italic font is ready (or after 0.6 s), so it never jumps between fonts.
+  function showName(){ if (name) name.classList.add('-PvIBG_nameOn'); }
+  setTimeout(showName, 600);
+  if (document.fonts) document.fonts.load('italic 400 1em "PT Serif"', 'Юрий Тимофеев').then(showName, showName); else showName();
+  var repeat = false;
+  try { repeat = sessionStorage.getItem('tim-preloaded') === '1'; } catch (e) {}
+  function hide(){
+    if (done) return; done = true; pf = 1; pp = 1; set();
+    var total = performance.now() - t0;
+    setTimeout(function(){
+      if (repeat || total < QUICK) pl.classList.add('-PvIBG_quick');
+      pl.classList.add('-PvIBG_out');
+      setTimeout(function(){ pl.style.display = 'none'; }, 1100);
+      try { sessionStorage.setItem('tim-preloaded', '1'); } catch (e) {}
+    }, 150);
+  }
+  set();
+  setTimeout(hide, MAX_WAIT);
+  var faces = ['400 1em "PT Serif"', 'italic 400 1em "PT Serif"', '400 1em "Golos Text"', '500 1em "Golos Text"'], n = 0;
+  var fonts = Promise.all(faces.map(function(f){
+    return (document.fonts ? document.fonts.load(f, 'ЮТ Юрий').catch(function(){}) : Promise.resolve())
+      .then(function(){ n++; pf = n / faces.length; set(); });
+  }));
+  var photo = new Promise(function(resolve){
+    var img = document.querySelector('[data-hero-img]');
+    function ok(){ pp = 1; set(); resolve(); }
+    if (!img) return ok();
+    if (img.complete && img.naturalWidth) return (img.decode ? img.decode().catch(function(){}) : Promise.resolve()).then(ok);
+    img.addEventListener('load', ok, { once: true });
+    img.addEventListener('error', ok, { once: true });
+  });
+  Promise.all([fonts, photo]).then(hide);
+})();17:["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$1e"}}]
+1b:true
+19:300
+19:C
+1a:0
+18:"$undefined"
